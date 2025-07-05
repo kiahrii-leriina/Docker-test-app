@@ -26,7 +26,7 @@ DockerTest/
 
 ## 🛠️ Steps to Build & Run
 
-### 1. 🧪 Build the Spring Boot App with Maven
+1. 🧪 Build the Spring Boot App with Maven
 
 ```bash
 mvn clean install
