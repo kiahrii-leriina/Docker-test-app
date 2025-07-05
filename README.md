@@ -53,7 +53,7 @@ docker tag docker-test-app carrot/docker-test-app:latest
 carrot here is user_name.
 
 7. 🚀 Push to Docker Hub
-docker push kaihriileriina/docker-test-app:latest
+docker push carrot/docker-test-app:latest
 
 
 The image will be available at:
